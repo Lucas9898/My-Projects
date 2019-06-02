@@ -1,0 +1,315 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV/ABERTA",BAND SD
+http://painel.ebanonet.com.br:25461/izabella/izabella/6882
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV/ABERTA",BAND HD
+http://painel.ebanonet.com.br:25461/izabella/izabella/4400
+
+#EXTINF:0 tvg-logo="" group-title="TV/ABERTA",BAND NEWS
+http://painel.ebanonet.com.br:25461/izabella/izabella/10296
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png"group-title="TV/ABERTA",GLOBO RIO  SUL SD
+http://painel.ebanonet.com.br:25461/izabella/izabella/24757
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png"group-title="TV/ABERTA",GLOBO RIO
+http://painel.ebanonet.com.br:25461/izabella/izabella/6113
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="TV/ABERTA",GLOBO SP
+http://painel.ebanonet.com.br:25461/izabella/izabella/22745
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="TV/ABERTA",GLOBO MINAS 
+http://painel.ebanonet.com.br:25461/izabella/izabella/22762
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="TV/ABERTA",GLOBO NORDESTE
+http://painel.ebanonet.com.br:25461/izabella/izabella/7527
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mzII3GO.png" group-title="TV/ABERTA",RECORD SD
+http://painel.ebanonet.com.br:25461/vito/vito/25543
+
+#EXTINF:0 tvg-logo="" group-title="TV/ABERTA",RECORD NEWS 
+http://painel.ebanonet.com.br:25461/izabella/izabella/10296
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV/ABERTA",SBT 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20864
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",ESPN
+http://painel.ebanonet.com.br:25461/izabella/izabella/6127
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",ESPN 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20787
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",ESPN BRASIL
+http://painel.ebanonet.com.br:25461/izabella/izabella/20784
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",ESPN EXTRA
+http://painel.ebanonet.com.br:25461/izabella/izabella/24789
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",FOX SPORTS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20771
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",FOX SPORTS 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20767
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTES",PREMIERE CLUBE
+http://painel.ebanonet.com.br:25461/izabella/izabella/6089
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="ESPORTES",Premiere 2
+http://pndxt01.dyndns.org:25461/cata/cata/3773
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="ESPORTES",Premiere 3
+http://pndxt01.dyndns.org:25461/cata/cata/3771
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTES",Premiere 4
+http://pndxt01.dyndns.org:25461/cata/cata/3769
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTES",Preniere 5 
+http://pndxt01.dyndns.org:25461/cata/cata/3767
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTES",Premiere 6 
+http://pndxt01.dyndns.org:25461/cata/cata/3765
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTES",Premiere 7
+http://pndxt01.dyndns.org:25461/cata/cata/3763     
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png" group-title="ESPORTES",SPORTV
+http://painel.ebanonet.com.br:25461/izabella/izabella/20545
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png" group-title="ESPORTES",SPORTV 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20540
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png" group-title="ESPORTES",SPORTV 3
+http://painel.ebanonet.com.br:25461/izabella/izabella/4325
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
+http://painel.ebanonet.com.br:25461/izabella/izabella/4396 
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",CARTOON NETWORK
+http://painel.ebanonet.com.br:25461/izabella/izabella/7817
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",DISNEY KIDS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20818
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",DISNEY JÚNIOR 
+http://painel.ebanonet.com.br:25461/izabella/izabella/4384
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",DISNEY XD
+http://painel.ebanonet.com.br:25461/izabella/izabella/4383
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",GLOOB
+http://painel.ebanonet.com.br:25461/izabella/izabella/4369
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",NAT GEO KIDS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20642
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",NICK JR
+http://painel.ebanonet.com.br:25461/izabella/izabella/4346
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",NICKLONDEM 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20636
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",TOOCAST
+http://painel.ebanonet.com.br:25461/izabella/izabella/20486
+
+#EXTINF:0 tvg-logo=""group-title="CULTURA",ANIMAL PLANET
+http://painel.ebanonet.com.br:25461/izabella/izabella/6132
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",Discovery Channel
+http://painel.ebanonet.com.br:25461/izabella/izabella/6132
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",DISCOVERY CIVILIZATION
+http://painel.ebanonet.com.br:25461/izabella/izabella/7861
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",DISCOVERY SCIENCE
+http://painel.ebanonet.com.br:25461/izabella/izabella/7861
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",DISCOVERY/THEATER
+http://painel.ebanonet.com.br:25461/izabella/izabella/10289
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",HISTÓRY/CHANNEL
+http://painel.ebanonet.com.br:25461/izabella/izabella/4314
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",DISCOVERY/TURBO
+http://painel.ebanonet.com.br:25461/izabella/izabella/4386
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",DISCOVERY/HOME
+http://painel.ebanonet.com.br:25461/izabella/izabella/4389
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",H2
+http://painel.ebanonet.com.br:25461/izabella/izabella/4367
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",NAT/ GEOGRAPHY
+http://painel.ebanonet.com.br:25461/izabella/izabella/4348
+
+#EXTINF:0 tvg-logo="" group-title="CULTURA",NAT GEO/WILD
+http://painel.ebanonet.com.br:25461/izabella/izabella/4349
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="FILMES/SERIES",AMC
+http://painel.ebanonet.com.br:25461/izabella/izabella/20891
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",AXN
+http://painel.ebanonet.com.br:25461/izabella/izabella/4402
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",CANAL BRASIL
+http://painel.ebanonet.com.br:25461/izabella/izabella/10293
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",CANAL BRASIL HD
+http://painel.ebanonet.com.br:25461/izabella/izabella/6963
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",FOX
+http://painel.ebanonet.com.br:25461/izabella/izabella/20760
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",FOX PREMIUM 1
+http://painel.ebanonet.com.br:25461/izabella/izabella/20763
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",FOX PREMIUM 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20764
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",FX
+http://painel.ebanonet.com.br:25461/izabella/izabella/20777
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",HBO
+http://painel.ebanonet.com.br:25461/izabella/izabella/20694
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",HBO 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20690
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",HBO FAMILY
+http://painel.ebanonet.com.br:25461/izabella/izabella/20688
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",HBO PLUS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20684
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",HBO SIGNATURE 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20679
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",MAX
+http://painel.ebanonet.com.br:25461/izabella/izabella/4358
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",MAX UP
+http://painel.ebanonet.com.br:25461/izabella/izabella/4355
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",MAXPRIME
+http://painel.ebanonet.com.br:25461/izabella/izabella/4357
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",MEGAPIX
+http://painel.ebanonet.com.br:25461/izabella/izabella/20654
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",PARAMOONT
+http://painel.ebanonet.com.br:25461/izabella/izabella/20619
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",CANAL SONY
+http://painel.ebanonet.com.br:25461/izabella/izabella/20529
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",SPACE
+http://painel.ebanonet.com.br:25461/izabella/izabella/4328
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",STUDIO UNIVERSAL 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20547
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",SYFY
+http://painel.ebanonet.com.br:25461/izabella/izabella/4323
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TELECINE ACTION 
+http://painel.ebanonet.com.br:25461/izabella/izabella/4320
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TELECINE FUN
+http://painel.ebanonet.com.br:25461/izabella/izabella/4318
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TELECINE PIPOCA
+http://painel.ebanonet.com.br:25461/izabella/izabella/4317
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TELECINE PREMIUM
+http://painel.ebanonet.com.br:25461/izabella/izabella/4316
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TELECINE TOUCHE
+http://painel.ebanonet.com.br:25461/izabella/izabella/4315
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TELECINE CULT
+http://painel.ebanonet.com.br:25461/izabella/izabella/4319
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="FILMES/SERIES",TCM
+http://painel.ebanonet.com.br:25461/izabella/izabella/20496
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TNT
+http://painel.ebanonet.com.br:25461/izabella/izabella/6074
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",TNT SÉRIES 
+http://painel.ebanonet.com.br:25461/izabella/izabella/6073
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",STUDIO UNIVERSAL 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20547
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",WARNER
+http://painel.ebanonet.com.br:25461/izabella/izabella/4307
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SERIES",UNIVERSAL  CHANNEL
+http://painel.ebanonet.com.br:25461/izabella/izabella/20465
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",GLOBO NEWS
+http://painel.ebanonet.com.br:25461/izabella/izabella/7442
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",BAND NEWS
+http://painel.ebanonet.com.br:25461/izabella/izabella/10296
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",RECORD NEWS 
+http://painel.ebanonet.com.br:25461/izabella/izabella/10296
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",A&E
+http://painel.ebanonet.com.br:25461/izabella/izabella/4404
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",COMEDY CENTRAL
+http://painel.ebanonet.com.br:25461/izabella/izabella/20828
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",GNT
+http://painel.ebanonet.com.br:25461/izabella/izabella/6956
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",LIFETIME 
+http://painel.ebanonet.com.br:25461/izabella/izabella/7876
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",MTV
+http://painel.ebanonet.com.br:25461/izabella/izabella/20644
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",MULTISHOW 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20648
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",MUSIC BOX
+http://painel.ebanonet.com.br:25461/izabella/izabella/20655
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",Off
+http://painel.ebanonet.com.br:25461/izabella/izabella/4344
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",TLC 
+http://painel.ebanonet.com.br:25461/izabella/izabella/4313
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",JASMIM TV
+http://painel.ebanonet.com.br:25461/izabella/izabella/6201
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",VENNUS
+http://painel.ebanonet.com.br:25461/izabella/izabella/6081
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",PLAYBOY TV 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20448
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",SEX PRIVE
+http://painel.ebanonet.com.br:25461/izabella/izabella/20446
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",SEXTRENE
+http://painel.ebanonet.com.br:25461/izabella/izabella/20449 
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",SEX HOT
+http://painel.ebanonet.com.br:25461/izabella/izabella/4329
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",VENUS
+http://painel.ebanonet.com.br:25461/61262/61262/6081
+
+
+
+
+
+
+ 
+
